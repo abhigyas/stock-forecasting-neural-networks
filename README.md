@@ -58,7 +58,7 @@ stock-forecasting-neural-networks/
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. Clone the repository (If fetching from github):
 ```bash
 git clone https://github.com/abhigyas/stock-forecasting-neural-networks.git
 cd stock-forecasting-neural-networks
