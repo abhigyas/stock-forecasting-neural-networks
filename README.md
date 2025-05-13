@@ -32,7 +32,7 @@ Our goal is to evaluate how well neural networks can generalize across different
 stock-forecasting-neural-networks/
 ├── README.md
 ├── project_proposal.md
-├── written_report.md
+├── written_report_clean.docx
 ├── requirements.txt
 ├── data/
 │   ├── raw/
