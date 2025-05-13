@@ -37,14 +37,18 @@ stock-forecasting-neural-networks/
 ├── data/
 │   ├── raw/
 │   └── processed/
+├── plots/
+│   ├── data_plots/
+│   └── model_plots/
 ├── notebooks/
 │   ├── 01_data_collection_and_cleaning.ipynb
 │   ├── 02_feature_engineering.ipynb
 │   ├── 03_modeling_single_layer_nn.ipynb
-│   ├── 04_modeling_multi_layer_nn.ipynb
-│   └── 05_evaluation_and_visualization.ipynb
+│   └── 04_modeling_multi_layer_nn.ipynb
 ├── utils/
 │   └── preprocessing.py
+│   └── __init__.py
+│   └── evaluation.py
 └── models/
     └── saved_model/
 ```
