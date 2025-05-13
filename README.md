@@ -30,9 +30,10 @@ Our goal is to evaluate how well neural networks can generalize across different
 
 ```
 stock-forecasting-neural-networks/
-├── README.md
+├── README.md PLEASE READ
 ├── project_proposal.md
-├── written_report_clean.docx
+├── written_report_clean.docx WORD FORMAT WRITE UP
+├── written_report_clean.pdf PDF FORMAT WRITE UP
 ├── requirements.txt
 ├── data/
 │   ├── raw/
@@ -40,7 +41,7 @@ stock-forecasting-neural-networks/
 ├── plots/
 │   ├── data_plots/
 │   └── model_plots/
-├── notebooks/
+├── notebooks/ USE THIS TO RUN CODE, RUN THEM IN ORDER FROM 01-04 (just click run all on each notebook) (WRITEUP HAS ALL THE SOURCE CODE WITH DETAILED COMMENTS)
 │   ├── 01_data_collection_and_cleaning.ipynb
 │   ├── 02_feature_engineering.ipynb
 │   ├── 03_modeling_single_layer_nn.ipynb
@@ -59,7 +60,7 @@ stock-forecasting-neural-networks/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/stock-forecasting-neural-networks.git
+git clone https://github.com/abhigyas/stock-forecasting-neural-networks.git
 cd stock-forecasting-neural-networks
 ```
 
@@ -83,4 +84,4 @@ pip install -r requirements.txt
 - Trained models (saved in `/models/`)
 - Evaluation plots (predicted vs actual)
 - Metrics (MAE, RMSE, R²)
-- Final report (`written_report.md`) with code explanations
+- Final report (`written_report.docx`) with code explanations
